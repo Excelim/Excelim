@@ -4,6 +4,9 @@
 
 ### Hi there, I am Excelim👋
 [![Gmail Badge](https://img.shields.io/badge/-excelbimaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:excelbimaa@gmail.com)](mailto:excelbimaa@gmail.com) 
+[![Spotify Badge](https://img.shields.io/badge/-ilikethewauyhurtme-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilikethewauyhurtme)](mailto:https://open.spotify.com/ilikethewauyhurtme) 
+
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarvisx17" alt="jarvisx17" /> </p>
 </br>
