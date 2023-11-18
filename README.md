@@ -4,7 +4,7 @@
 
 ### Hi there, I am Excelim👋
 [![Gmail Badge](https://img.shields.io/badge/-excelbimaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:excelbimaa@gmail.com)](mailto:excelbimaa@gmail.com) 
-[![Spotify Badge](https://img.shields.io/badge/-ilikethewauyhurtme-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilikethewauyhurtme)](mailto:https://open.spotify.com/ilikethewauyhurtme) 
+[![Spotify Badge](https://img.shields.io/badge/-ilikethewauyhurtme-c14438?style=flat-square&logo=spotifyl&logoColor=white&link=mailto:ilikethewauyhurtme)](mailto:https://open.spotify.com/ilikethewauyhurtme) 
 
 
 <br>
